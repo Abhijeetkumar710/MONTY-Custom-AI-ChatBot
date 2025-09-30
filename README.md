@@ -1,4 +1,5 @@
 # MONTY-Custom-AI-ChatBot
+MONTY → My Open Network for Talking to You
 Overview
 
 Monty is a Python-based AI chatbot built using Hugging Face models. It evolves from GPT-2 → DialoGPT → Falcon-7B, showing improved conversational quality and response refinement. Designed for backend AI experimentation on Google Colab with GPU support.
